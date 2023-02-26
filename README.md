@@ -1,4 +1,4 @@
-# my-script
+# Script-Rendang
 
 ### INSTALL SCRIPT :
 
