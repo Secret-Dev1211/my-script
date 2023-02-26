@@ -1,4 +1,4 @@
-# SCRIPT PRIVATE
+# my-script
 
 ### INSTALL SCRIPT :
 
