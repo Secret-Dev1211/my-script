@@ -6,7 +6,7 @@
   <summary>Link Installer</summary>
 
   ```
-  sudo apt update; sudo apt upgrade  -y; sudo apt curl -y; curl --silent --ipv4 --disable --no-buffer --url "---" --output /root/setup.sh; chmod +x *; ./setup.sh
+  sudo apt update; sudo apt upgrade -y; sudo apt curl -y; curl --silent --ipv4 --disable --no-buffer --url "---" --output /root/setup.sh; chmod +x *; ./setup.sh
   ```
 </details>
 
