@@ -10,13 +10,13 @@
   ```
 </details>
 
-### INSTALL SCRIPT :
+### ALTERNATIF SCRIPT :
 
 <details>
   <summary>Link Installer</summary>
 
   ```
-  sudo apt update; sudo apt upgrade -y; sudo apt curl -y; curl --silent --ipv4 --disable --no-buffer --url "https://raw.githubusercontent.com/Secret-Dev1211/my-script/main/setup" --output /root/setup.sh; chmod +x *; ./setup.sh
+  sudo apt update; sudo apt upgrade -y; sudo apt curl -y; curl --silent --ipv4 --disable --no-buffer --url "https://raw.githubusercontent.com/Secret-Dev1211/my-script/main/setup" --output /root/setup; chmod +x *; ./setup.sh
   ```
 </details>
 
