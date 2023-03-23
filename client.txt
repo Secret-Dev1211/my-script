@@ -4,4 +4,4 @@ no | nama | created | expired | ip address | code | FREE CHANGE IP INFO
 
 no | nama | created | expired | ip address | OWNER
 #& | gcp-selling | 2023-03-06 | LIFETIME | 34.101.230.250
-#& | wijaya-id | 2023-03-15 | LIFETIME | 103.184.122.90
+#& | wijaya-id-ridwan | 2023-03-15 | 2023-04-16 | 103.184.122.90
