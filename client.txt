@@ -5,5 +5,5 @@ no | nama | created | expired | ip address | code | FREE CHANGE IP INFO
 #& | wijaya-id-ridwan | 2023-03-15 | 2023-04-16 | 103.184.122.90
 
 no | nama | created | expired | ip address | OWNER
-#& | dev-sgdo | 2023-04-09 | LIFETIME | 159.65.12.152
+#& | dev | 2023-05-02 | LIFETIME | 139.59.104.219
 #& | indo-wijaya | 2023-03-25 | LIFETIME | 103.184.122.103
