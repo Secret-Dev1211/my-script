@@ -6,4 +6,4 @@ no | nama | created | expired | ip address | code | FREE CHANGE IP INFO
 
 no | nama | created | expired | ip address | OWNER
 #& | dev | 2023-05-02 | LIFETIME | 139.59.104.219
-#& | indo-wijaya | 2023-03-25 | LIFETIME | 103.184.122.103
+#& | dev-new-sc | 2023-03-25 | LIFETIME | 43.134.113.133
