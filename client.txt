@@ -7,4 +7,3 @@ no | nama | created | expired | ip address | OWNER
 #& | sgpd-digital | 2023-05-02 | LIFETIME | 139.59.104.219
 #& | indo-tencent | 2023-06-06 | LIFETIME | 43.129.53.197
 #& | sgpd-tencent | 2023-03-25 | LIFETIME | 43.134.113.133
-#& | sgdo-test | 2023-09-03 | LIFETIME | 139.59.254.33
