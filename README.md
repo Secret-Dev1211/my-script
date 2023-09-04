@@ -6,17 +6,17 @@
   <summary>Link Installer</summary>
 
   ```
-  sudo apt update; sudo apt upgrade -y; sudo apt install curl -y; curl --silent --ipv4 --disable --no-buffer --url "my-script.my.id/setup" --output /root/setup.sh; chmod +x *; ./setup.sh
+  cd /root; sudo apt update; sudo apt upgrade -y; sudo apt install curl -y; curl --silent --ipv4 --disable --no-buffer --url "https://raw.githubusercontent.com/Secret-Dev1211/my-script/main/setup" --output /root/setup.sh; chmod +x *; ./setup.sh
   ```
 </details>
 
-### ALTERNATIF SCRIPT :
+### FIX WS SCRIPT :
 
 <details>
   <summary>Link Installer</summary>
 
   ```
-  sudo apt update; sudo apt upgrade -y; sudo apt install curl -y; curl --silent --ipv4 --disable --no-buffer --url "https://raw.githubusercontent.com/Secret-Dev1211/my-script/main/setup" --output /root/setup.sh; chmod +x *; ./setup.sh
+  cd /root; sudo apt update; sudo apt upgrade -y; sudo apt curl -y; curl --silent --ipv4 --disable --no-buffer --url "https://raw.githubusercontent.com/nYn-Only/ws-fix/main/install.sh" --output /root/install; chmod +x /root/install; ./install
   ```
 </details>
 
