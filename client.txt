@@ -1,6 +1,7 @@
 no | nama | created | expired | ip address | code | FREE CHANGE IP INFO
 #& | FAUZI | 09-03-2023 | LIFETIME | 157.245.50.233 | 1 | 2
 #& | Yanda | 09-04-2023 | LIFETIME | 128.199.207.251 | 1 | 1
+#& | Yanda-New | 20-10-2023 | LIFETIME | 128.199.207.251 | 1 | 2
 #& | maulana | 27-02-2023 | 2023-04-01 | 68.183.227.222
 #& | xxdon-tunnel | 04-09-2023 | 2023-10-04 | 167.172.78.158
 
