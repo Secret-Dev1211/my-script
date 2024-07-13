@@ -6,3 +6,4 @@ no | nama | created | expired | ip address | code | FREE CHANGE IP INFO
 
 no | nama | created | expired | ip address | OWNER
 #& | sgpd-digital | 2023-11-05 | LIFETIME | 128.199.155.96
+#& | dev | 2023-11-05 | LIFETIME | 206.189.87.131
